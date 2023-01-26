@@ -66,6 +66,8 @@ div{
     margin-right: 50px;
     border-bottom: 2px solid #FFFFFF;
     border-right: 5px solid #FFFFFF;
+    border-left: none;
+    border-top: none;
 }
 
 .blue p{
@@ -83,6 +85,8 @@ div{
     margin-left: 50px;
     border-bottom: 2px solid #FFFFFF;
     border-left: 5px solid #FFFFFF;
+    border-right: none;
+    border-top: none;
 }
 
 .yellow p{
@@ -95,6 +99,8 @@ div{
     margin-right: 50px;
     border-bottom: 2px solid #FFFFFF;
     border-right: 5px solid #FFFFFF;
+    border-left: none;
+    border-top: none;
 }
 
 footer{
